@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b4df4175-cca7-453c-9db3-649d8c2fa941)# 为什么选择 AI-NFT？
+# 为什么选择 AI-NFT？
 
 
 ## 为什么 AI 代理应该是 NFT？
