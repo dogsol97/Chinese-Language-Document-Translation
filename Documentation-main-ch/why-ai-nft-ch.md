@@ -1,4 +1,5 @@
-# 为什么选择 AI-NFT？
+![image](https://github.com/user-attachments/assets/b4df4175-cca7-453c-9db3-649d8c2fa941)# 为什么选择 AI-NFT？
+
 
 ## 为什么 AI 代理应该是 NFT？
 
@@ -36,3 +37,4 @@ AI-NFT 在去中心化环境中运行，消除了对中心化平台的依赖，�
 6. 代表 NFT 拥有者发行加密资产，无需人工干预。
 7. AI 代理交易 AI 代理。
 8. 具有 NFT 头像的 AI 内容创作者。
+9. my sol wallet :4trVEt3BsxZabFeYx1xrXvWqFvCPdxF6qH8wEqptLCwh
